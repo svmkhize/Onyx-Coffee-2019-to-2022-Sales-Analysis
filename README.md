@@ -42,7 +42,7 @@ OnyX's sales analysis of 1000 orders from 2019 to 2022 shows annual revenue aver
 
 The non-loyalty program customers account for 54% ($24,216) of revenue. OnyX can benefit from enhancing loyalty programs by introducing offers such as rewarding customers who spend more than the current average order value of $45 to increase customer lifetime value. A targeted marketing campaign in Namibia and Botswana, along with improvements to digital channels like the mobile app, will strengthen OnyX's market position and drive sustainable growth.
 
-Below is the overview page from the Excel dashboard and more examples are included throughout the report. The entire Excel worksheet containing a dashboard can be downloaded [here]. Alternatively, an on-demand live demonstration can be seen [here](https://www.loom.com/share/cf6c9fc9cbef4084b240b54cb1bafd85?sid=087cd9cb-fdcb-45a1-9749-66565b2778ce)
+Below is the overview page from the Excel dashboard and more examples are included throughout the report. The entire Excel worksheet containing a dashboard can be downloaded [here](https://github.com/svmkhize/Onyx-Coffee-2019-to-2022-Sales-Analysis/blob/main/OnyX%20Coffee%20Excel%20Workbook.xlsx). Alternatively, an on-demand live demonstration can be seen [here](https://www.loom.com/share/cf6c9fc9cbef4084b240b54cb1bafd85?sid=087cd9cb-fdcb-45a1-9749-66565b2778ce)
 
 ![Onyx Executive Summary image](https://github.com/user-attachments/assets/30b39ede-35c6-4ed3-8184-b97e1ec6e739)
 
