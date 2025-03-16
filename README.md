@@ -81,6 +81,6 @@ Below is the overview page from the Excel dashboard and more examples are includ
 
 See the raw data, Excel Dashboard, and pivot tables & charts in the [Excel workbook](https://github.com/svmkhize/Onyx-Coffee-2019-to-2022-Sales-Analysis/blob/main/OnyX%20Coffee%20Excel%20Workbook.xlsx)
 
-See my cleaning, analysis, Excel Dashboard, and pivot tables & charts in the [PDF presentation]
+See my data cleaning, analysis, Excel Dashboard creation using pivot tables & charts in the [Technical Report](https://github.com/svmkhize/Onyx-Coffee-2019-to-2022-Sales-Analysis/blob/main/OnyX%20Coffee%20Sales%20Analysis%20Technical%20Report.pdf)
 
 For more of my projects, visit [My Portfolio](https://svmkhize.github.io/Portfolio4SibusisoMkhize.github.io/)
