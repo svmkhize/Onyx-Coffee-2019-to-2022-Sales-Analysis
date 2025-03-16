@@ -4,12 +4,12 @@ For more of my projects, visit [My Portfolio](https://svmkhize.github.io/Portfol
 
 ## Table of Contents
 - [Project Background and Overview](#project-background-and-overview)
-- Data Structure 
-- Executive Summary 
-- Insights Deep-Dive 
-    - Sales Trends and Growth Rates 
-    - Product Performance 
-    - Loyalty Program Performance 
+- [Data Structure Overview](#data-structure-overview) 
+- [Executive Summary](#executive-summary) 
+- [Insights Deep-Dive](#insights-deep-dive) 
+    - [Sales Trends and Growth Rates](#sales-trends-and-growth-rates) 
+    - [Product Performance](#product-performance) 
+    - [Loyalty Program Performance](#loyalty-program-performance) 
 - [Recommendations](#recommendations)
 
 ## Project Background and Overview
