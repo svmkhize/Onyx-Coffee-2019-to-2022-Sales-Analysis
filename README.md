@@ -1,6 +1,7 @@
 # OnyX Coffee 2019 to 2022 Sales Analysis
 For more of my projects, visit [My Portfolio](https://svmkhize.github.io/Portfolio4SibusisoMkhize.github.io/)
-![Uploading Onyx_Coffee_banner.png…]()
+
+![Onyx_Coffee_banner](https://github.com/user-attachments/assets/bbdd47e8-89c1-46e4-b696-aae6db2c6b78)
 
 ## Table of Contents
 ---
@@ -32,6 +33,9 @@ OnyX’s database structure as seen below consists of three tables: orders, cust
 
 The Dataset was sourced on [Kaggle Website](https://www.kaggle.com/datasets/saadharoon27/coffee-bean-sales-raw-dataset)
 
+![Onyx Coffee ERD](https://github.com/user-attachments/assets/9f5775fb-999f-4bc4-9a12-7410cdebfc4e)
+
+
 ## Executive Summary
 ---
 OnyX's sales analysis of 1000 orders from 2019 to 2022 shows annual revenue averaging $ 11,000, with South African operations contributing 77% (774) of orders received and 79% ($35,639) of total revenue from 2019 to 2022. OnyX has generated $45,134 of revenue from 1000 orders received in its three operations (South Africa, Namibia, and Botswana) from 2019 to 2022. 
@@ -39,6 +43,8 @@ OnyX's sales analysis of 1000 orders from 2019 to 2022 shows annual revenue aver
 The non-loyalty program customers account for 54% ($24,216) of revenue. OnyX can benefit from enhancing loyalty programs by introducing offers such as rewarding customers who spend more than the current average order value of $45 to increase customer lifetime value. A targeted marketing campaign in Namibia and Botswana, along with improvements to digital channels like the mobile app, will strengthen OnyX's market position and drive sustainable growth.
 
 Below is the overview page from the Excel dashboard and more examples are included throughout the report. The entire Excel worksheet containing a dashboard can be downloaded [here]. Alternatively, an on-demand live demonstration can be seen [here](https://www.loom.com/share/cf6c9fc9cbef4084b240b54cb1bafd85?sid=087cd9cb-fdcb-45a1-9749-66565b2778ce)
+
+![Onyx Executive Summary image](https://github.com/user-attachments/assets/30b39ede-35c6-4ed3-8184-b97e1ec6e739)
 
 
 ## Insights Deep-Dive
@@ -51,17 +57,22 @@ Below is the overview page from the Excel dashboard and more examples are includ
 - OnyX South African operations contribute 77% (774) of orders received and 79% ($35,639) of total revenue between 2019 and 2022.
 - OnyX has generated $45,134 of revenue from 1000 orders received in its three operations (South Africa, Namibia, and Botswana) from 2019 to 2022. 
 
+![Onyx Sales trends and Growth Rates](https://github.com/user-attachments/assets/090878e7-5592-4c33-af1d-a775b7ca0e66)
 
 ### Product Performance
 
 - All in all, all OnyX coffee types contributed evenly to the 1000 orders and the $45,134 sales revenue recorded from 2019 to 2022.
 - Only the Robusta coffee type contributed below $1,000 to the overall $45,134 sales revenue recorded from 2019 to 2022.
+  
+![OnyX Product Performance](https://github.com/user-attachments/assets/60ceb89c-8285-4c4c-94af-70276d9ebd57)
 
 ### Loyalty Program Performance
 
 - The non-loyalty program/non-member contributed 52% (521) of all orders, generating 54% ($24,216) more in sales revenue. 
 - The non-loyalty program/non-member spent $46 more on average per order than the $44 spent by the loyalty program/member. 
-- The non-loyalty program/non-member lead in key metrics because there is no incentive in being part of a loyalty program. Hence, most customers are reluctant to join the program. 
+- The non-loyalty program/non-member lead in key metrics because there is no incentive in being part of a loyalty program. Hence, most customers are reluctant to join the program.
+  
+![OnyX Loyalty Program Performance](https://github.com/user-attachments/assets/85db1d5c-9de3-499c-b6cd-188d9ca8cdc0)
 
 ## Recommendations
 ---
