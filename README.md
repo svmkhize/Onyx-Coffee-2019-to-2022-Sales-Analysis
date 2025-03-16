@@ -79,7 +79,7 @@ Below is the overview page from the Excel dashboard and more examples are includ
 - Consider expanding OnyX Coffee to the rest of the SADC countries. 
 
 
-See the raw data, Excel Dashboard, and pivot tables & charts in the [Excel workbook]
+See the raw data, Excel Dashboard, and pivot tables & charts in the [Excel workbook](https://github.com/svmkhize/Onyx-Coffee-2019-to-2022-Sales-Analysis/blob/main/OnyX%20Coffee%20Excel%20Workbook.xlsx)
 
 See my cleaning, analysis, Excel Dashboard, and pivot tables & charts in the [PDF presentation]
 
