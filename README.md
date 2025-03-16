@@ -1,4 +1,5 @@
 # OnyX Coffee 2019 to 2022 Sales Analysis
+![Uploading Onyx_Coffee_banner.png…]()
 
 For more of my projects, visit [My Portfolio](https://svmkhize.github.io/Portfolio4SibusisoMkhize.github.io/)
 
