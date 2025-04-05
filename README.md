@@ -57,7 +57,9 @@ Below is the overview page from the Excel dashboard and more examples are includ
 - Between 2019 and 2020, OnyX sales revenue has seen a 1% decline due to the pandemic as at one point, borders to both Namibia and Botswana were closed.
 - Between 2020 and 2021, OnyX sales revenue achieved an astounding +14% growth driven by the +19% order growth, signifying post-pandemic levels.
 - OnyX South African operations contribute 77% (774) of orders received and 79% ($35,639) of total revenue between 2019 and 2022.
-- OnyX has generated $45,134 of revenue from 1000 orders received in its three operations (South Africa, Namibia, and Botswana) from 2019 to 2022. 
+- OnyX has generated $45,134 of revenue from 1000 orders received in its three operations (South Africa, Namibia, and Botswana) from 2019 to 2022.
+-  Revenue was stable from 2019 to 2020, with only a minor dip in revenue of less at less than 1%.
+-  For 2022, the data is inconclusive due to only having order data from January to August.
 
 ![Onyx Sales trends and Growth Rates](https://github.com/user-attachments/assets/090878e7-5592-4c33-af1d-a775b7ca0e66)
 
