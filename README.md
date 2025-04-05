@@ -11,8 +11,8 @@ For more of my projects, visit [My Portfolio](https://svmkhize.github.io/Portfol
     - [Product Performance](#product-performance) 
     - [Loyalty Program Performance](#loyalty-program-performance) 
 - [Recommendations](#recommendations)
-- 
-                        ![OnyX Banner for github](https://github.com/user-attachments/assets/3104eee4-c603-445e-a8ff-4eedc396fd80)
+
+![OnyX Banner for github](https://github.com/user-attachments/assets/3104eee4-c603-445e-a8ff-4eedc396fd80)
 
 ## Project Background and Overview
 ---
