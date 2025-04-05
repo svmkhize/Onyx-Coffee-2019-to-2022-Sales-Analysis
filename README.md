@@ -1,8 +1,7 @@
 # OnyX Coffee 2019 to 2022 Sales Analysis on Microsoft Excel 
 For more of my projects, visit [My Portfolio](https://svmkhize.github.io/Portfolio4SibusisoMkhize.github.io/)
 
-![OnyX_Excel_Banner](https://github.com/user-attachments/assets/4c1f3e86-7336-448e-95f0-56b0e2613fca)
-
+![OnyX Banner for github](https://github.com/user-attachments/assets/3104eee4-c603-445e-a8ff-4eedc396fd80)
 
 ## Table of Contents
 ---
