@@ -66,15 +66,33 @@ Below is the overview page from the Excel dashboard and more examples are includ
 ---
 ### Sales Trends and Growth Rates
 
-- OnyX averages $11,000 in annual sales with 250 orders per year.
-- Between 2019 and 2020, OnyX sales revenue has seen a 1% decline due to the pandemic as at one point, borders to both Namibia and Botswana were closed.
-- Between 2020 and 2021, OnyX sales revenue achieved an astounding +14% growth driven by the +19% order growth, signifying post-pandemic levels.
-- OnyX South African operations contribute 77% (774) of orders received and 79% ($35,639) of total revenue between 2019 and 2022.
-- OnyX has generated $45,134 of revenue from 1000 orders received in its three operations (South Africa, Namibia, and Botswana) from 2019 to 2022.
--  Revenue was stable from 2019 to 2020, with only a minor dip in revenue of less at less than 1%.
--  For 2022, the data is inconclusive due to only having order data from January to August.
+OnyX Coffee's sales data from 2019 to 2024 shows a generally stable performance with a slight upward trend over the six-year period.
 
-![Onyx Sales trends and Growth Rates](https://github.com/user-attachments/assets/090878e7-5592-4c33-af1d-a775b7ca0e66)
+### Sales Trends
+
+**Key Observations:**
+- **Stable Average Order Value (AOV):** The Average Order Value has consistently remained at R21 throughout these years, suggesting a stable pricing strategy and consistent purchasing behavior per order.
+- **Fluctuating Order Counts:** While the AOV has been steady, the order count has experienced minor fluctuations year-over-year. The highest order count was recorded in 2022 with 24,075 orders, while the lowest was in 2020 with 23,336 orders.
+- **Gradual Sales Growth:** Overall, total sales have shown a gradual increase from R493,447 in 2019 to R500,853 in 2024.
+
+### Growth Rates
+
+**Growth Observations:**
+- The year-over-year growth rate has been relatively modest, ranging from a decrease of 1.76% to an increase of 2.75%.
+- The decline in 2020 may be attributed to the initial impacts of the global pandemic on consumer behaviour.
+- The strongest growth was observed in 2022.
+- A slight dip occurred in 2023, followed by a small recovery in 2024.
+
+### Implications and Considerations
+
+- **Stability as an Asset:** The consistent AOV indicates a reliable customer base and effective pricing strategy.
+- **Opportunities for Increased Order Volume:** Although sales are growing slightly, implementing strategies to boost order volume could result in more significant revenue growth, especially given the stable AOV.
+- **External Factors:** Analysing external influences (e.g., economic conditions, competitor activities) may provide insights into the fluctuations in order counts and sales growth.
+- **Future Growth Strategies:** Initiatives to attract new customers or encourage more frequent purchases from existing customers could be crucial for accelerating growth.
+
+
+![Onyx Sales trends and Growth Rates](https://github.com/user-attachments/assets/577e795f-ea0a-440e-a310-142eaf6aa880)
+
 
 ### Product Performance
 
