@@ -47,7 +47,7 @@ OnyX Coffee has established a strong market presence in the Southern African reg
 - **Consistent Performance:** The contribution percentage of each country to total sales closely matches its percentage contribution to total orders, indicating a consistent average order value across the markets.
 - **Growth Potential:** While South Africa is currently the stronghold, Botswana and Namibia offer opportunities for further growth and market penetration.
 
-**Recommendations:**
+**Considerations:**
 1. **Strengthen South African Market Leadership:** Continue investing in and solidifying OnyX Coffee's position in South Africa through targeted marketing campaigns, loyalty programs, and possibly expanding product offerings tailored to local consumer preferences.
 2. **Explore Growth Opportunities in Botswana and Namibia:** Conduct market research to better understand consumer preferences and identify growth opportunities in Botswana and Namibia. This may involve targeted marketing initiatives, localised distribution strategies, or partnerships to boost brand awareness and market share.
 3. **Maintain Consistent Order Value:** Monitor the average order value in each market to ensure profitability and identify any potential shifts in consumer purchasing behaviour.
@@ -83,7 +83,7 @@ OnyX Coffee's sales data from 2019 to 2024 shows a generally stable performance 
 - The strongest growth was observed in 2022.
 - A slight dip occurred in 2023, followed by a small recovery in 2024.
 
-### Implications and Considerations
+**Considerations:**
 
 - **Stability as an Asset:** The consistent AOV indicates a reliable customer base and effective pricing strategy.
 - **Opportunities for Increased Order Volume:** Although sales are growing slightly, implementing strategies to boost order volume could result in more significant revenue growth, especially given the stable AOV.
@@ -115,7 +115,7 @@ OnyX Coffee's sales data from 2019 to 2024 shows a generally stable performance 
   - **Value-Added Offerings:** Introduce premium versions or bundles featuring Arabica and Robusta to increase the average transaction value.
   - **Targeted Marketing:** Highlight the unique characteristics and potential benefits of Arabica and Robusta to specific customer segments who might be willing to pay a premium.
 
-**Recommendations:**
+**Considerations:**
 
 1. **Focus on High-Performing Products:** Leverage the strong performance of Liberica and Excelsa by ensuring a consistent supply and exploring opportunities to further promote these higher-revenue-generating coffee types.
 
@@ -146,7 +146,7 @@ OnyX Coffee's sales data from 2019 to 2024 shows a generally stable performance 
 
 - **Potential for Enhanced Loyalty Benefits:** The consistent AOV between members and non-members indicates an opportunity to improve loyalty program benefits, which could motivate members to increase their spending per order.
 
-**Recommendations:**
+**Considerations:**
 
 1. **Focus on Member Retention:** Continue to invest in the loyalty program to retain existing members and encourage repeat purchases. The slightly higher order volume from members highlights the importance of the program in fostering customer loyalty.
 
