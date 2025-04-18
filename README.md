@@ -58,7 +58,8 @@ By focusing on strengthening its dominant position in South Africa while strateg
 Below is the overview page from the Excel dashboard and more examples are included throughout the report. The entire Excel worksheet containing a dashboard can be downloaded [here](https://github.com/svmkhize/Onyx-Coffee-2019-to-2022-Sales-Analysis/blob/main/OnyX%20Coffee%20Excel%20Workbook.xlsx). Alternatively, an on-demand live demonstration can be seen [here](https://www.loom.com/share/cf6c9fc9cbef4084b240b54cb1bafd85?sid=087cd9cb-fdcb-45a1-9749-66565b2778ce)
 
 
-![Onyx Executive Summary image](https://github.com/user-attachments/assets/c2b84db9-752e-4cf9-ba49-f9578b1c1fc4)
+![Onyx Executive Summary image](https://github.com/user-attachments/assets/59f013a7-4411-47b7-9d3a-2e552dc72d28)
+
 
 
 ## Insights Deep-Dive
