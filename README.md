@@ -1,4 +1,4 @@
-# OnyX Coffee 2019 to 2022 Sales Analysis on Microsoft Excel 
+#OnyX Coffee Sales Performance Analysis: 2019-2024, Implemented in Microsoft Excel
 For more of my projects, visit [My Portfolio](https://svmkhize.github.io/Portfolio4SibusisoMkhize.github.io/)
 
 ## Table of Contents
