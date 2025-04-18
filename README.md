@@ -31,9 +31,9 @@ This analysis will assist the OnyX’s product team to identify the most profita
 ---
 OnyX’s database structure as seen below consists of three tables: orders, customers , and products, with a total row of 142 550 records. 
 
-The Dataset was exported from OnyX Coffee MySQL dataset as an Excel Sheet and can be found [HERE](https://www.kaggle.com/datasets/saadharoon27/coffee-bean-sales-raw-dataset).
+The Dataset was exported from OnyX Coffee MySQL dataset as an Excel Sheet and can be found [HERE](https://github.com/svmkhize/OnyX_Coffee_Dataset_Repository/blob/main/OnyX_Coffee_Raw_Dataset.xlsb).
 
-This was inspired by [Kaggle Website Dataset](https://github.com/svmkhize/OnyX_Coffee_Dataset_Repository/blob/main/OnyX_Coffee_Raw_Dataset.xlsb)
+This was inspired by [Kaggle Website Dataset](https://www.kaggle.com/datasets/saadharoon27/coffee-bean-sales-raw-dataset).
 
 ![Onyx Coffee ERD](https://github.com/user-attachments/assets/9f5775fb-999f-4bc4-9a12-7410cdebfc4e)
 
