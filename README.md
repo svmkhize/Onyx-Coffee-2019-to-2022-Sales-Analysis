@@ -21,7 +21,7 @@ The company has a significant amount of data on its sales, product offerings, an
 
 <b>Insights and recommendations are provided on the following key business areas:</b>
 
-<b> 1. Sales Trends and Growth Analysis:</b> This involves evaluating OnyX’s historical sales patterns from 2019 to 2022 across its three operations, focusing on revenue, order volume, and average order value (AOV).<br>
+<b> 1. Sales Trends and Growth Analysis:</b> This involves evaluating OnyX’s historical sales patterns from 2019 to 2024 across its three operations, focusing on revenue, order volume, and average order value (AOV).<br>
 <b> 2. Product Performance:</b> This section includes an analysis of OnyX’s product lines to understand their impact on overall sales.<br>
 <b> 3. Loyalty Program Success:</b> This involves assessing the effectiveness of the loyalty program in driving customer sales.
 
@@ -29,9 +29,9 @@ This analysis will assist the OnyX’s product team to identify the most profita
 
 ## Data Structure Overview
 ---
-OnyX’s database structure as seen below consists of three tables: orders, customers , and products, with a total row of 1000 records. 
+OnyX’s database structure as seen below consists of three tables: orders, customers , and products, with a total row of 142 550 records. 
 
-The Dataset was sourced on [Kaggle Website](https://www.kaggle.com/datasets/saadharoon27/coffee-bean-sales-raw-dataset)
+The Dataset was exported from OnyX Coffee MySQL dataset as an Excel Sheet and can be found [HERE](https://www.kaggle.com/datasets/saadharoon27/coffee-bean-sales-raw-dataset) This was inspired by [Kaggle Website Dataset](https://www.kaggle.com/datasets/saadharoon27/coffee-bean-sales-raw-dataset)
 
 ![Onyx Coffee ERD](https://github.com/user-attachments/assets/9f5775fb-999f-4bc4-9a12-7410cdebfc4e)
 
