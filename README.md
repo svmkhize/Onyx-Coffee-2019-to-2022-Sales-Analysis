@@ -61,7 +61,6 @@ Below is the overview page from the Excel dashboard and more examples are includ
 ![Onyx Executive Summary image](https://github.com/user-attachments/assets/59f013a7-4411-47b7-9d3a-2e552dc72d28)
 
 
-
 ## Insights Deep-Dive
 ---
 ### Sales Trends and Growth Rates
