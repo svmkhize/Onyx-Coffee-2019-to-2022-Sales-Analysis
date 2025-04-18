@@ -40,9 +40,20 @@ This was inspired by [Kaggle Website Dataset](https://www.kaggle.com/datasets/sa
 
 ## Executive Summary
 ---
-OnyX's sales analysis of 1000 orders from 2019 to 2022 shows annual revenue averaging $ 11,000, with South African operations contributing 77% (774) of orders received and 79% ($35,639) of total revenue from 2019 to 2022. OnyX has generated $45,134 of revenue from 1000 orders received in its three operations (South Africa, Namibia, and Botswana) from 2019 to 2022. 
+OnyX Coffee has established a strong market presence in the Southern African region, with South Africa being the leading market, accounting for approximately 70% of total sales (ZAR 2,089,839.73) and total orders (99,927). Botswana is the second-largest market, contributing around 20% to total sales (ZAR 418,953.56) and total orders (28,744). Namibia, while smaller, still makes a notable contribution, representing roughly 9.7% of total sales (ZAR 203,520.08) and total orders (13,879).
 
-The non-loyalty program customers account for 54% ($24,216) of revenue. OnyX can benefit from enhancing loyalty programs by introducing offers such as rewarding customers who spend more than the current average order value of $45 to increase customer lifetime value. A targeted marketing campaign in Namibia and Botswana, along with improvements to digital channels like the mobile app, will strengthen OnyX's market position and drive sustainable growth.
+**Key Observations:**
+- **Market Concentration:** A significant portion of OnyX Coffee's revenue and order volume is concentrated in South Africa.
+- **Consistent Performance:** The contribution percentage of each country to total sales closely matches its percentage contribution to total orders, indicating a consistent average order value across the markets.
+- **Growth Potential:** While South Africa is currently the stronghold, Botswana and Namibia offer opportunities for further growth and market penetration.
+
+**Recommendations:**
+1. **Strengthen South African Market Leadership:** Continue investing in and solidifying OnyX Coffee's position in South Africa through targeted marketing campaigns, loyalty programs, and possibly expanding product offerings tailored to local consumer preferences.
+2. **Explore Growth Opportunities in Botswana and Namibia:** Conduct market research to better understand consumer preferences and identify growth opportunities in Botswana and Namibia. This may involve targeted marketing initiatives, localised distribution strategies, or partnerships to boost brand awareness and market share.
+3. **Maintain Consistent Order Value:** Monitor the average order value in each market to ensure profitability and identify any potential shifts in consumer purchasing behaviour.
+4. **Consider Regional Expansion:** Based on initial market success, OnyX Coffee could strategically explore expansion into other neighbouring countries in the Southern African region.
+
+By focusing on strengthening its dominant position in South Africa while strategically pursuing growth opportunities in Botswana and Namibia, OnyX Coffee can further enhance its market presence and drive sustainable growth in the region.
 
 Below is the overview page from the Excel dashboard and more examples are included throughout the report. The entire Excel worksheet containing a dashboard can be downloaded [here](https://github.com/svmkhize/Onyx-Coffee-2019-to-2022-Sales-Analysis/blob/main/OnyX%20Coffee%20Excel%20Workbook.xlsx). Alternatively, an on-demand live demonstration can be seen [here](https://www.loom.com/share/cf6c9fc9cbef4084b240b54cb1bafd85?sid=087cd9cb-fdcb-45a1-9749-66565b2778ce)
 
